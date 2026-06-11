@@ -9,9 +9,9 @@ My main goal is to transform market bureaucracies and workflows into fluid, effi
 Produce good code, trying to avoid AI to take my job. 😉
 
 ## About Me
-*Education:* B.S. Student in Analysis and Systems Development (ADS / Technologist degree).
-*Current Focus:* Full-Stack Development & Microservices Architecture.
-*Development Standards:* I thrive on well-structured systems organized into well-defined layers with high cohesion. Whether optimizing memory usage in backend ecosystems or designing reactive, modern frontends, I prioritize infrastructure autonomy and hosting cost efficiency. Lately, I have been learning how to build robust applications leveraging AI.
+**Education:** B.S. Student in Analysis and Systems Development (ADS / Technologist degree).
+**Current Focus:** Full-Stack Development & Microservices Architecture.
+**Development Standards:** I thrive on well-structured systems organized into well-defined layers with high cohesion. Whether optimizing memory usage in backend ecosystems or designing reactive, modern frontends, I prioritize infrastructure autonomy and hosting cost efficiency. Lately, I have been learning how to build robust applications leveraging AI.
 
 ## Tech Stack & Toolkit
 ### Backend:
@@ -22,8 +22,8 @@ Produce good code, trying to avoid AI to take my job. 😉
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D): For modern, fast, and component-driven web interfaces.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white): Expanding the ecosystem for seamless mobile experiences and dynamic apps.
 ### Infrastructure & Cloud Ecosystem:
-*Databases & Cloud Solutions:* Supabase, Redis, PostgreSQL, InfluxDB, MongoDB.
-*Messaging:* RabbitMQ for asynchronous event-driven architecture. Eclipse Mosquitto for communication between sensors.
+**Databases & Cloud Solutions:** Supabase, Redis, PostgreSQL, InfluxDB, MongoDB.
+**Messaging:** RabbitMQ for asynchronous event-driven architecture. Eclipse Mosquitto for communication between sensors.
 ### IoT
 Prototyping and assembling hardware projects using components like ESP32, Relays, RFID, Displays, and more. I also develop the firmware and software to control these components natively in C++.
 ### Environment & Deployment
