@@ -10,7 +10,9 @@ Produce good code, trying to avoid AI to take my job. 😉
 
 ## About Me
 **Education:** B.S. Student in Analysis and Systems Development (ADS / Technologist degree).
+
 **Current Focus:** Full-Stack Development & Microservices Architecture.
+
 **Development Standards:** I thrive on well-structured systems organized into well-defined layers with high cohesion. Whether optimizing memory usage in backend ecosystems or designing reactive, modern frontends, I prioritize infrastructure autonomy and hosting cost efficiency. Lately, I have been learning how to build robust applications leveraging AI.
 
 ## Tech Stack & Toolkit
