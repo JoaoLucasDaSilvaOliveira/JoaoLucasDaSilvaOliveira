@@ -1,4 +1,4 @@
-# Olá, estrangeiro 👋
+# Hi! 👋
 
 Meu nome é João Lucas, sou estudante do curso Análise e Desenvolvimento de Sistema pelo Instituto Federal do Rio Grande do sul - Campus Osório. Também sou formado no curso técnico de Administração.
 
@@ -44,7 +44,7 @@ Se você quiser conversar sobre arquitetura de software, automação B2B, o futu
 [Instagram](https://www.instagram.com/joao_silva.oliveira/)
 
 
-# Hi there, stranger 👋
+# Hi! 👋
 
 My name is João Lucas, and I am an undergraduate student in Analysis and Systems Development at the Federal Institute of Rio Grande do Sul - Osório Campus. I also hold a technical degree in Business Administration.
 
