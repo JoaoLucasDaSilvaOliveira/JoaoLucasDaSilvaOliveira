@@ -24,7 +24,7 @@ Produzo código de verdade. Tentando evitar que a IA não leve meu emprego. 😉
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white): Expandindo o ecossistema para experiências mobile e aplicações dinâmicas.
 ### Infraestrutura & Ecossistema:
 - Bancos de Dados & Soluções Cloud: Supabase, Redis, PostreSQL, InfluxDB, MongoDB.
-- Mensageria: RabbitMQ para comunicação assíncrona entre serviços.
+- Mensageria: RabbitMQ para comunicação assíncrona entre serviços. Eclipse Mosquitto para comunicação entre sensores.
 ### IOT
 Prototipação e montagem de projetos utilizando componentes como ESP32, Relés, RFID, Telas e tudo mais. Além do desenvolvimento de software para controle do componentes, na linguagem C++.
 ### Ambiente e deploy
@@ -68,7 +68,7 @@ Produce good code, trying to avoid AI to take my job. 😉
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white): Expanding the ecosystem for seamless mobile experiences and dynamic apps.
 ### Infrastructure & Cloud Ecosystem:
 - Databases & Cloud Solutions: Supabase, Redis, PostgreSQL, InfluxDB, MongoDB.
-- Messaging: RabbitMQ for asynchronous event-driven architecture.
+- Messaging: RabbitMQ for asynchronous event-driven architecture. Eclipse Mosquitto for communication between sensors.
 ### IoT
 Prototyping and assembling hardware projects using components like ESP32, Relays, RFID, Displays, and more. I also develop the firmware and software to control these components natively in C++.
 ### Environment & Deployment
