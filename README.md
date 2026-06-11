@@ -6,7 +6,7 @@ I consider myself a Software Engineer focused on building robust, scalable B2B s
 
 My main goal is to transform market bureaucracies and workflows into fluid, efficient, and intelligent software.
 
-Produce good code, trying to avoid AI to take my job. 😉
+Produce good code, trying to avoid AI taking my job. 😉
 
 ## About Me
 **Education:** B.S. Student in Analysis and Systems Development (ADS / Technologist degree).
