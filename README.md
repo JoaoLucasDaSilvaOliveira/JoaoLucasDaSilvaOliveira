@@ -39,6 +39,7 @@ Estou produzindo, também, meu Trabalho de Conclusão de Curso. O objetivo do es
 ## Conecte-se Comigo
 Se você quiser conversar sobre arquitetura de software, automação B2B, o futuro do ecossistema Go/Java ou simplesmente trocar ideias sobre DP e desenvolvimento:
 [LinkedIn](https://www.linkedin.com/in/joão-lucas-da-silva-oliveira-889307290)
+
 [Instagram](https://www.instagram.com/joao_silva.oliveira/)
 
 
@@ -83,4 +84,5 @@ I am also currently developing my Capstone Project (TCC). The main goal of this 
 ## Connect with Me
 Whether you want to talk about software architecture, B2B automations, the future of the Go/Java ecosystems, or just chat about HR business rules and clean code:
 [LinkedIn](https://www.linkedin.com/in/joão-lucas-da-silva-oliveira-889307290)
+
 [Instagram](https://www.instagram.com/joao_silva.oliveira/)
