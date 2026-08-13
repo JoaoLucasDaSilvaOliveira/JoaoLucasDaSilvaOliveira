@@ -35,7 +35,7 @@ Produce good code, trying to avoid AI taking my job. 😉
 ### IoT
 Prototyping and assembling hardware projects using components like ESP32, Relays, RFID, Displays, and more. I also develop the firmware and software to control these components natively in C++.
 ### Environment & Deployment
-Development is fully containerized with Docker running natively on a Linux environment. I also build CI/CD pipelines using Jenkins and Terraform, managing artifact builds through GitHub Actions and Jenkins.
+Development is fully containerized with Docker running natively on a Linux environment. I also build CI/CD pipelines using Jenkins, managing artifact builds through GitHub Actions and Jenkins.
 
 ## Featured Projects & Code in Production
 Most of my current work is engineered under the Sistemas Unificados umbrella.
