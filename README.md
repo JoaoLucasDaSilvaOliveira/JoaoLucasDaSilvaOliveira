@@ -1,51 +1,26 @@
-# Hi there 👋
+# João Lucas da Silva Oliveira
 
-My name is João Lucas, and I am an undergraduate student in Analysis and Systems Development at the Federal Institute of Rio Grande do Sul - Osório Campus. I also hold a technical degree in Business Administration.
+Estudante de **Análise e Desenvolvimento de Sistemas no IFRS** e candidato a oportunidades de desenvolvimento de software, especialmente backend. Trabalho com Java, Spring Boot e Go em projetos acadêmicos e de estudo. No Departamento Pessoal, também desenvolvi uma automação em Python para apoiar a emissão de guias.
 
-I consider myself a Software Engineer focused on building robust, scalable B2B solutions with complex business logic. Currently, I balance the analytical mind of a Personnel Department & HR specialist with the heart of a developer focused on clean architecture and high performance.
+Gosto de entender as regras do negócio, construir APIs e tornar processos manuais mais simples. Abaixo estão projetos com escopos diferentes; indico quando foram feitos em equipe ou como estudo.
 
-My main goal is to transform market bureaucracies and workflows into fluid, efficient, and intelligent software.
+## Projetos em destaque
 
-Produce good code, trying to avoid AI taking my job. 😉
+| Projeto | Contexto e minha contribuição | Tecnologias |
+| --- | --- | --- |
+| [Pokémon Battlefield](https://github.com/JoaoLucasDaSilvaOliveira/pokemon-battlefield) | Projeto acadêmico em equipe. Desenvolvi o backend, incluindo endpoints REST, serviços e persistência, e configurei Docker e Jenkins. Um colega desenvolveu o frontend. | Java, Spring Boot, H2, Docker, Jenkins |
+| [Coleta de despesas para planejamento tributário](https://github.com/JoaoLucasDaSilvaOliveira/coleta-dados-planejamento-tributario) | Aplicação para coleta e organização de dados, com interface web, regras de acesso e persistência. Consulte o README para o estado atual do projeto e do deploy. | Vue 3, TypeScript, Supabase, PostgreSQL |
+| [Automação de emissão de guias](https://github.com/JoaoLucasDaSilvaOliveira/Contabiehl-AEGF) | Automação criada e utilizada no trabalho em Departamento Pessoal para apoiar etapas da emissão de guias. | Python, PyAutoGUI |
+| [API de livros e autores](https://github.com/JoaoLucasDaSilvaOliveira/simple-go-api) | Projeto de estudo com operações CRUD, separação entre domínio, casos de uso e persistência. | Go, SQLite |
 
-## About Me
-**Education:** B.S. Student in Analysis and Systems Development (ADS / Technologist degree).
+## Tecnologias que aparecem nesses projetos
 
-**Current Focus:** Full-Stack Development & Microservices Architecture.
+**Backend:** Java, Spring Boot, Go, Python, APIs HTTP.  
+**Dados e interface:** SQL, SQLite, PostgreSQL, Vue 3, TypeScript.  
+**Ferramentas:** Git, Docker e Jenkins.
 
-**Development Standards:** I thrive on well-structured systems organized into well-defined layers with high cohesion. Whether optimizing memory usage in backend ecosystems or designing reactive, modern frontends, I prioritize infrastructure autonomy and hosting cost efficiency. Lately, I have been learning how to build robust applications leveraging AI.
+Tenho outros exercícios, protótipos e projetos acadêmicos nos repositórios. Os projetos acima são o melhor ponto de partida para avaliar meu trabalho.
 
-## Tech Stack & Toolkit
-### Backend:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white): My solid foundation for robust, structured, and resilient enterprise applications using Spring Framework Enviornment.
+## Contato
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white): My go-to choice for high-performance microservices, concurrency, and cost-effective hosting.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white): Used for automation, smart scripts, and high-level structured logic.
-
-### Frontend & Mobile:
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D): For modern, fast, and component-driven web interfaces.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white): Expanding the ecosystem for seamless mobile experiences and dynamic apps.
-
-### Infrastructure & Cloud Ecosystem:
-**Databases & Cloud Solutions:** Supabase, Redis, PostgreSQL, InfluxDB, MongoDB.
-
-**Messaging:** RabbitMQ for asynchronous event-driven architecture. Eclipse Mosquitto for communication between sensors.
-### IoT
-Prototyping and assembling hardware projects using components like ESP32, Relays, RFID, Displays, and more. I also develop the firmware and software to control these components natively in C++.
-### Environment & Deployment
-Development is fully containerized with Docker running natively on a Linux environment. I also build CI/CD pipelines using Jenkins, managing artifact builds through GitHub Actions and Jenkins.
-
-## Featured Projects & Code in Production
-Most of my current work is engineered under the Sistemas Unificados umbrella.
-My flagship project is Teu Ponto: a comprehensive B2B electronic time-tracking and payroll ecosystem. It features a high-performance Go microservices architecture and delivers a seamless experience through a PWA (Progressive Web App) focused on geofencing and strict labor law compliance.
-
-I am also currently developing my Capstone Project (TCC). The main goal of this study is to explore ways to bring technology, data analytics, and innovation to the retail market, with a special focus on brick-and-mortar stores. The project aims to utilize ESP32 microcontrollers configured as BLE Beacons running the Eddystone protocol, alongside a mobile application that receives information, displays it on the screen, and generates data for further analysis. This initiative merges technological innovation with foundational business administration concepts, such as marketing and strategic planning.
-
-## Connect with Me
-Whether you want to talk about software architecture, B2B automations, the future of the Go/Java ecosystems, or just chat about HR business rules and clean code:
-
-[LinkedIn](https://www.linkedin.com/in/joão-lucas-da-silva-oliveira-889307290)
-
-[Instagram](https://www.instagram.com/joao_silva.oliveira/)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-lucas-da-silva-oliveira/) · [Repositórios](https://github.com/JoaoLucasDaSilvaOliveira?tab=repositories)
